@@ -90,3 +90,4 @@ void Partida::imprimeJogadoresOrdenados()
 		cout << jogadores_ordenados[i].getNomeJogador() << " " << jogadores_ordenados[i].calcularPontuacao() << endl;
 	}
 }
+// testando.
